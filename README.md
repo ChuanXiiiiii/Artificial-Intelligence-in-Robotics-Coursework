@@ -1,4 +1,4 @@
-# AIR
+# Artificial Intelligence in Robotics
 
 This repository contains the working materials for the SEMTM0016 DungeonMazeWorld coursework. It combines three task pipelines, the shared project management notes, the raw datasets/assets, and the final integrated report notebook.
 
