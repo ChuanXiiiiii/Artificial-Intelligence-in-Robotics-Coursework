@@ -1,0 +1,15 @@
+label_true,label_pred,count,ratio_in_errors,method
+human,lizard,13,0.2708333333333333,hog_svm
+human,orc,11,0.22916666666666666,hog_svm
+orc,halfling,6,0.125,hog_svm
+lizard,orc,5,0.10416666666666667,hog_svm
+orc,human,4,0.08333333333333333,hog_svm
+human,halfling,2,0.041666666666666664,hog_svm
+halfling,human,1,0.020833333333333332,hog_svm
+halfling,orc,1,0.020833333333333332,hog_svm
+human,wingedrat,1,0.020833333333333332,hog_svm
+lizard,halfling,1,0.020833333333333332,hog_svm
+lizard,human,1,0.020833333333333332,hog_svm
+orc,lizard,1,0.020833333333333332,hog_svm
+wingedrat,lizard,1,0.020833333333333332,hog_svm
+orc,lizard,11,1.0,resnet18

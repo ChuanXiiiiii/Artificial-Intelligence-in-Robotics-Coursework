@@ -1,0 +1,83 @@
+# =========================
+# OS / Editor junk
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Python environments
+# =========================
+.venv/
+.venv311/
+venv/
+env/
+
+# =========================
+# Python caches / build
+# =========================
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# =========================
+# Jupyter caches
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Generated experiment outputs
+# =========================
+/outputs/
+
+/task1_supervised/outputs/
+/task2_unsupervised/outputs/
+/task2_unsupervised/outputs_bribe/
+/task3_reinforcement/outputs/
+
+# =========================
+# Large datasets / raw assets
+# =========================
+/dungeon_images_colour80/
+/dungeon_sensorstats.csv
+
+# Optional: ignore raw game image assets if not needed in repo
+# /SEMTM0016_DungeonMazeWorld-main/images/
+
+# =========================
+# Binary model artifacts
+# =========================
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# =========================
+# Logs and temp files
+# =========================
+*.log
+*.tmp
+*.swp
+
+# =========================
+# Course handouts / personal reference PDFs
+# (keep your own report PDFs if desired)
+# =========================
+/Coursework Q&A.pdf
+/SEMTM0016_2526_AssessmentOverview.pdf
+/SEMTM0016_2526_assignment.pdf
+/task3_reinforcement/SEMTM0016-Week16-RL-Value_Based.pdf
+/task3_reinforcement/SEMTM0016-Week17-RL-policy_Based.pdf
+/task3_reinforcement/SEMTM0016_RL_lab1.ipynb
+/task3_reinforcement/SEMTM0016_RL_lab2.ipynb
+/task3_reinforcement/SEMTM0016_RL_lab3.ipynb
+/task3_reinforcement/SEMTM0016_RL_lab3_solution.ipynb
+/task3_reinforcement/SEMTM0016_Value_based_RL_with_answer.ipynb

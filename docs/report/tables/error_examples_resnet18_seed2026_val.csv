@@ -1,0 +1,5 @@
+image_path,label_true,label_pred,count
+/Users/ziyanlei/Desktop/AIR/dungeon_images_colour80/lizard/lizard_C101.png,lizard,orc,2
+/Users/ziyanlei/Desktop/AIR/dungeon_images_colour80/lizard/lizard_C109.png,lizard,orc,2
+/Users/ziyanlei/Desktop/AIR/dungeon_images_colour80/human/human_A187.png,human,lizard,1
+/Users/ziyanlei/Desktop/AIR/dungeon_images_colour80/wingedrat/wingedrat_B002.png,wingedrat,lizard,1

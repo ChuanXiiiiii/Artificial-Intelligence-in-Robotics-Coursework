@@ -1,0 +1,8 @@
+{
+  "methods": ["random", "dqn", "ppo"],
+  "reward_schemes": ["G"],
+  "seeds": [42, 123, 2026, 9, 20],
+  "total_timesteps": 1000000,
+  "n_eval_episodes": 100,
+  "success_threshold": 0.8
+}

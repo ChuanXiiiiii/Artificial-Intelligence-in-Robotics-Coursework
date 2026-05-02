@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.9617622610141313,
+  "macro_f1": 0.9547845476049212,
+  "n_samples": 1203,
+  "method": "hog_svm",
+  "seed": 2026,
+  "split": "val"
+}

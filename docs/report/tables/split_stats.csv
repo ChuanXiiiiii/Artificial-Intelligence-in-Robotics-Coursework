@@ -1,0 +1,16 @@
+split,label,count
+test,halfling,200
+test,human,483
+test,lizard,225
+test,orc,207
+test,wingedrat,92
+train,halfling,928
+train,human,2254
+train,lizard,1051
+train,orc,968
+train,wingedrat,407
+val,halfling,198
+val,human,483
+val,lizard,228
+val,orc,208
+val,wingedrat,86

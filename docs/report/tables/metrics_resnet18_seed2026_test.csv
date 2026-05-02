@@ -1,0 +1,2 @@
+accuracy,macro_f1,n_samples,method,seed,split
+0.9908864954432477,0.9897687086547208,1207,resnet18,2026,test

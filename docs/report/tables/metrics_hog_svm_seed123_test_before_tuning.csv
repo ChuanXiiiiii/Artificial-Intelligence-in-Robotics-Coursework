@@ -1,0 +1,2 @@
+accuracy,macro_f1,n_samples,method,seed,split
+0.9734879867439934,0.9712746201607576,1207,hog_svm,123,test

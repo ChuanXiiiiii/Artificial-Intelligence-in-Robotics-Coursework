@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.9983429991714996,
+  "macro_f1": 0.9981441704613798,
+  "n_samples": 1207,
+  "method": "resnet18",
+  "seed": 42,
+  "split": "test"
+}

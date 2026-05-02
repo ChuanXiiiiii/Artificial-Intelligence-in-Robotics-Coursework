@@ -1,0 +1,3 @@
+class,precision,recall,f1,support,method
+wingedrat,1.0,0.9782608695652174,0.989010989010989,92,hog_svm
+wingedrat,1.0,1.0,1.0,92,resnet18

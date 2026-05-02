@@ -1,0 +1,11 @@
+label_true,label_pred,count,ratio_in_errors,method
+lizard,orc,11,0.3793103448275862,hog_svm
+human,halfling,5,0.1724137931034483,hog_svm
+human,orc,4,0.13793103448275862,hog_svm
+orc,human,2,0.06896551724137931,hog_svm
+orc,lizard,2,0.06896551724137931,hog_svm
+wingedrat,orc,2,0.06896551724137931,hog_svm
+human,lizard,1,0.034482758620689655,hog_svm
+lizard,human,1,0.034482758620689655,hog_svm
+orc,halfling,1,0.034482758620689655,hog_svm
+human,lizard,1,1.0,resnet18

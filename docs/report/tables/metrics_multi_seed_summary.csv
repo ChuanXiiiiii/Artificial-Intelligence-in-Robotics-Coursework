@@ -1,0 +1,7 @@
+reward_scheme,method,n_runs,success_rate_mean,success_rate_std,episode_return_mean,episode_return_std,steps_to_goal_mean,steps_to_goal_std,sample_efficiency_steps_mean,sample_efficiency_steps_std,success_rate_ci95,episode_return_ci95,steps_to_goal_ci95,sample_efficiency_steps_ci95
+A,dqn,5,0.0,0.0,-1.0,0.0,,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
+A,ppo,5,0.0,0.0,-2.96,0.22627416997969532,,0.0,-1.0,0.0,0.0,0.19833805484576084,0.0,0.0
+A,random,5,0.0,0.0,-201.862,0.897145473153607,,0.0,-1.0,0.0,0.0,0.7863826793616496,0.0,0.0
+B,dqn,5,0.0,0.0,-1.594,0.44358088326707684,,0.0,-1.0,0.0,0.0,0.38881578733379646,0.0,0.0
+B,ppo,5,0.0,0.0,-1.9243999999999999,0.41205679220224,,0.0,-1.0,0.0,0.0,0.36118370319824783,0.0,0.0
+B,random,5,0.0,0.0,-202.50439999999998,1.0070872851943,,0.0,-1.0,0.0,0.0,0.8827509265563075,0.0,0.0

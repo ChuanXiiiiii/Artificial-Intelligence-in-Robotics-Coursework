@@ -1,0 +1,6 @@
+{
+  "seed": 42,
+  "image_size": 80,
+  "c_values": [0.1, 1.0, 3.0],
+  "notes": "Method A baseline with balanced linear SVM on HOG features."
+}

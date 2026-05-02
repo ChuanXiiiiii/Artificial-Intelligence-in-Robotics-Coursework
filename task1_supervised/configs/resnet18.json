@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "epochs": 8,
+  "warmup_epochs": 2,
+  "batch_size": 64,
+  "learning_rate_head": 0.001,
+  "learning_rate_full": 0.0001,
+  "weight_decay": 0.0001,
+  "patience": 3,
+  "notes": "Method B baseline transfer learning with class-weighted CE."
+}

@@ -1,0 +1,9 @@
+{
+  "method": "gmm",
+  "components_range": [2, 3, 4, 5, 6, 7, 8],
+  "covariance_type": "full",
+  "n_init": 10,
+  "max_iter": 300,
+  "reg_covar": 1e-06,
+  "selection_rule": "sort by silhouette desc, davies_bouldin asc, calinski_harabasz desc"
+}

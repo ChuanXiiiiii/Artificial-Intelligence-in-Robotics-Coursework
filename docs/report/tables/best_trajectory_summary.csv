@@ -1,0 +1,7 @@
+method,reward_scheme,best_seed,success_rate,episode_return_mean,steps_to_goal_mean,gif_path,mp4_path,note
+dqn,A,9,0.0,-1.0,,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_dqn_rewardA.gif,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_dqn_rewardA.mp4,ok
+ppo,A,9,0.0,-2.72,,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_ppo_rewardA.gif,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_ppo_rewardA.mp4,ok
+random,A,123,0.0,-200.51,,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_random_rewardA.gif,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_random_rewardA.mp4,ok
+dqn,B,123,0.0,-1.108,,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_dqn_rewardB.gif,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_dqn_rewardB.mp4,ok
+ppo,B,2026,0.0,-1.36,,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_ppo_rewardB.gif,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_ppo_rewardB.mp4,ok
+random,B,2026,0.0,-201.56,,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_random_rewardB.gif,/Users/ziyanlei/Desktop/AIR/task3_reinforcement/outputs/figures/best_trajectory_random_rewardB.mp4,ok
